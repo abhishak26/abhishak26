@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 I'm Abhishak</h1>
+<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
 <h3 align="center">Aspiring Developer | Engineering Student | Web 3.0 Enthusiast</h3>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishak26&label=Profile%20views&color=0e75b6&style=flat" alt="abhishak26" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 <a href="#thirumurugan7-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
@@ -13,7 +13,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Flutter**,**AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishak-timothy)
-- 📫 How to reach me **abhishaktimothy@gmail.com**
+- 📫 How to reach me **jaiganeshh574@gmail.com**
 
 
 
@@ -32,10 +32,10 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 
 ### 🌐 **Connect with Me**
 <div align="center">
-  <a href="http://instagram.com/_.abhishyy._" target="_blank">
+  <a href="http://instagram.com/jg_official_2005" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="(https://www.linkedin.com/in/abhishak-timothy-9196532a5)" target="_blank">
+  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -129,10 +129,10 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishak26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishak26" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak Stats" />
 </div>
