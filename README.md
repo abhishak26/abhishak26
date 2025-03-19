@@ -35,7 +35,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="http://instagram.com/_.abhishyy._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="(https://www.linkedin.com/in/abhishak-timothy-9196532a5/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/abhishak-timothy-9196532a5)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
