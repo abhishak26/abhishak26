@@ -13,7 +13,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Flutter**,**AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishak-timothy-9196532a5/)
-- 📫 How to reach me **abishaktimothy@gmail.com**
+- 📫 How to reach me **abhishaktimothy@gmail.com**
 
 
 
