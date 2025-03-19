@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
+<h1 align="center">Hi there 👋 I'm Abhishak</h1>
 <h3 align="center">Aspiring Developer | Engineering Student | Web 3.0 Enthusiast</h3>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
-<a href="#thirumurugan7-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishak26&label=Profile%20views&color=0e75b6&style=flat" alt="abhishak26" /> </p>
+<a href="#title">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
@@ -32,10 +32,10 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 
 ### 🌐 **Connect with Me**
 <div align="center">
-  <a href="http://instagram.com/jg_official_2005" target="_blank">
+  <a href="http://instagram.com/_.abhishyy._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishak-timothy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
