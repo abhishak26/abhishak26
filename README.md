@@ -129,10 +129,10 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishak26&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishak26" alt="GitHub Streak Stats" />
 </div>
