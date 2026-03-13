@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
 
-- 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
+- 🏫: &nbsp;I'm Pursuing B.E CSE
 
 - :speech_balloon: &nbsp;I like to talk about **Web**,**AI**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
