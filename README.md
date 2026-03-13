@@ -8,11 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
 
-- 🏫: &nbsp;I'm Pursuing B.E CSE
+- 🏫 I'm Pursuing B.E CSE
 
-- :speech_balloon: I like to talk about **Web**,**AI**
-- :mailbox: Ask me about anything, I am happy to **help**
-- :computer: Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishak-timothy)
+- :speech_balloon: &nbsp;I like to talk about **Web**,**AI**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishak-timothy)
 - 📫 How to reach me **abhishaktimothy@gmail.com**
 
 
