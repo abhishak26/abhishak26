@@ -36,7 +36,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-h1
 
 ---
 
