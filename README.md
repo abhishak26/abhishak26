@@ -4,9 +4,6 @@
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishak26&label=Profile%20views&color=0e75b6&style=flat" alt="abhishak26" /> </p>
-<a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishak26&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
-</a>
 
 - 🏫 I'm Pursuing B.E CSE
 
