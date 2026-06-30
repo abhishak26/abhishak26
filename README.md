@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Abhishak</h1>
-<h3 align="center">Aspiring Developer | Engineering Student | Web 3.0 Enthusiast</h3>
+<h3 align="center">Aspiring Developer | Engineering Student | Web Enthusiast</h3>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
