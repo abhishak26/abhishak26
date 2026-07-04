@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Abhishak</h1>
 <h3 align="center">Aspiring Developer | Engineering Student | Web Enthusiast</h3>
-<h3 align="center">Love learning and Innovating new things! </h3>
+<h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishak26&label=Profile%20views&color=0e75b6&style=flat" alt="abhishak26" /> </p>
